@@ -1,0 +1,34 @@
+PODS:
+  - ENSwiftSideMenu (0.1.1)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.2.0):
+    - GoogleMaps (= 2.2.0)
+    - GooglePlaces (= 2.2.0)
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - LiquidFloatingActionButton (1.2.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - ENSwiftSideMenu
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - LiquidFloatingActionButton
+  - SnapKit
+
+SPEC CHECKSUMS:
+  ENSwiftSideMenu: a934caefbe811e4925f172009349da4a49901307
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlacePicker: 345b1aabd42c9d6d9bf2369c1bae1234d903e764
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  LiquidFloatingActionButton: 9c28961915754e08cf596ea6bdd60f9cd949f172
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: c9280b81045e8f3d8ff79fc31f846890126362b3
+
+COCOAPODS: 1.2.1
